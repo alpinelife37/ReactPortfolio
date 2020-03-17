@@ -13,7 +13,7 @@ function Index() {
               <div className="row">
                 <div id="imgdiv">
                   <img
-                    src="../Images/studentAvatar.jpg"
+                    src="../images/studentAvatar.jpg"
                     className="profile-pic"
                     alt="student avatar"
                   />
