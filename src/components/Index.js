@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "react-router";
+
 function Index() {
   return (
     <body className="main-body">
