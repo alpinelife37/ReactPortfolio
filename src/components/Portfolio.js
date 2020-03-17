@@ -15,7 +15,7 @@ function Portfolio() {
             <div className="col-md-5 tile">
               <h6>Wanderlust App</h6>
               <a href="https://alpinelife37.github.io/Homework07/">
-                <img src="assets/images/wanderlust.png" alt="wanderlust logo" />
+                <img src="./Images/wanderlust.png" alt="wanderlust logo" />
               </a>
             </div>
 
@@ -23,7 +23,7 @@ function Portfolio() {
               <h6>Password Generator App</h6>
               <a href="https://alpinelife37.github.io/Homework3/">
                 <img
-                  src="assets/images/password_generator.png"
+                  src="../Images/password_generator.png"
                   alt="password generator"
                 />
               </a>
@@ -35,7 +35,7 @@ function Portfolio() {
               <h6>Weather Dashboard App</h6>
               <a href="https://alpinelife37.github.io/Homework6/">
                 <img
-                  src="assets/images/weather_dashboard.png"
+                  src="Images/weather_dashboard.png"
                   alt="weather dashboard"
                 />
               </a>
@@ -44,7 +44,7 @@ function Portfolio() {
             <div className="col-md-5 tile">
               <h6>Day Planner App</h6>
               <a href="https://alpinelife37.github.io/Homework5/">
-                <img src="assets/images/day_planner.png" alt="day planner" />
+                <img src="../../Images/day_planner.png" alt="day planner" />
               </a>
             </div>
           </div>
@@ -53,7 +53,7 @@ function Portfolio() {
             <div className="col-md-5 tile">
               <h6>Taco App</h6>
               <a href="https://aqueous-dusk-93036.herokuapp.com/">
-                <img src="assets/images/taco.png" alt="coding quiz" />
+                <img src="././Images/taco.png" alt="coding quiz" />
               </a>
             </div>
 
