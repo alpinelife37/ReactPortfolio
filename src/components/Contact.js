@@ -1,11 +1,10 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 function Contact() {
   return (
-    <body class="main-body">
-      <div id="main" class="container">
-        <section class="main-section">
+    <body className="main-body">
+      <div id="main" className="container">
+        <section className="main-section">
           <h1>Contact</h1>
 
           <form id="contact-form">

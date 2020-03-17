@@ -2,8 +2,8 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer class="footer">
-      <div class="container">
+    <footer className="footer">
+      <div className="container">
         <p>Copyright&copy;</p>
       </div>
     </footer>

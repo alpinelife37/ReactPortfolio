@@ -2,24 +2,24 @@ import React from "react";
 // import { Link } from "react-router";
 function Index() {
   return (
-    <body class="main-body">
-      <div id="main" class="container">
-        <section class="main-section">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="page-header">
+    <body className="main-body">
+      <div id="main" className="container">
+        <section className="main-section">
+          <div className="row">
+            <div className="col-md-12">
+              <div className="page-header">
                 <h1>About Me</h1>
               </div>
-              <div class="row">
+              <div className="row">
                 <div id="imgdiv">
                   <img
                     src="../Images/studentAvatar.jpg"
-                    class="profile-pic"
+                    className="profile-pic"
                     alt="student avatar"
                   />
                 </div>
-                <div class="col-md-9">
-                  <p class="firsttext">
+                <div className="col-md-9">
+                  <p className="firsttext">
                     Where I started to how I arrived here... I have managed a
                     large retail store for the last 19 years with 140+
                     employees. During that time I increased the net income 860%.
@@ -29,8 +29,8 @@ function Index() {
                   </p>
                 </div>
               </div>
-              <div class="row">
-                <div class="col-md-12">
+              <div className="row">
+                <div className="col-md-12">
                   <p>
                     I have always had interest in computers and growing up I was
                     taught by my aunt how to physically build pcs starting with
