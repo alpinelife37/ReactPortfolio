@@ -6,7 +6,9 @@ function Header() {
     <header id="main-header">
       <div className="menu-bar container">
         <nav className="navbar navbar-expand-lg navbar-light">
-          <div id="topbox">James Nelson</div>
+          <Link to="/" id="topbox">
+            James Nelson
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
