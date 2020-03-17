@@ -23,7 +23,7 @@ function Portfolio() {
               <h6>Password Generator App</h6>
               <a href="https://alpinelife37.github.io/Homework3/">
                 <img
-                  src="../images/password_generator.png"
+                  src="./images/password_generator.png"
                   alt="password generator"
                 />
               </a>
@@ -35,7 +35,7 @@ function Portfolio() {
               <h6>Weather Dashboard App</h6>
               <a href="https://alpinelife37.github.io/Homework6/">
                 <img
-                  src="images/weather_dashboard.png"
+                  src="./images/weather_dashboard.png"
                   alt="weather dashboard"
                 />
               </a>
@@ -44,7 +44,7 @@ function Portfolio() {
             <div className="col-md-5 tile">
               <h6>Day Planner App</h6>
               <a href="https://alpinelife37.github.io/Homework5/">
-                <img src="../../images/day_planner.png" alt="day planner" />
+                <img src="./images/day_planner.png" alt="day planner" />
               </a>
             </div>
           </div>
@@ -53,14 +53,14 @@ function Portfolio() {
             <div className="col-md-5 tile">
               <h6>Taco App</h6>
               <a href="https://aqueous-dusk-93036.herokuapp.com/">
-                <img src="././images/taco.png" alt="coding quiz" />
+                <img src="./images/taco.png" alt="coding quiz" />
               </a>
             </div>
 
             <div className="col-md-5 tile">
               <h6>Github Profile Generator Node App</h6>
               <a href="https://github.com/alpinelife37/Project-09.git">
-                <img src="assets/images/profile.png" alt="profile generator" />
+                <img src="./images/profile.png" alt="profile generator" />
               </a>
             </div>
           </div>
