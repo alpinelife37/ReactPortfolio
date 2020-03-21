@@ -22,19 +22,17 @@ function Contact() {
               <li>
                 <label for="message">Linkedin</label>
                 <a href="https://www.linkedin.com/in/pnw-web-dev/">
-                  https://www.linkedin.com/in/pnw-web-dev/
+                  PNW-WEB-DEV
                 </a>
               </li>
               <li>
                 <label for="message">Github</label>
-                <a href="https://github.com/alpinelife37/">
-                  https://github.com/alpinelife37/
-                </a>
+                <a href="https://github.com/alpinelife37/">Alpinelife37</a>
               </li>
 
               <li>
                 <label for="message">PDF Resume</label>
-                <a href="https://github.com/alpinelife37/Portfolio/blob/master/assets/Files/resume.pdf">
+                <a href="https://github.com/alpinelife37/ReactPortfolio/blob/master/JamesNelsonResume2020.pdf">
                   James Nelson
                 </a>
               </li>
