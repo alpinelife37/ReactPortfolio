@@ -17,6 +17,9 @@ function Portfolio() {
               <a href="https://alpinelife37.github.io/Homework07/">
                 <img src="./images/wanderlust.png" alt="wanderlust logo" />
               </a>
+              <a href="https://github.com/alpinelife37/Homework07" id="github">
+                Github Repo:
+              </a>
             </div>
 
             <div className="col-md-5 tile">
@@ -26,6 +29,9 @@ function Portfolio() {
                   src="./images/password_generator.png"
                   alt="password generator"
                 />
+              </a>
+              <a href="https://github.com/alpinelife37/Homework3">
+                Github Repo:
               </a>
             </div>
           </div>
@@ -39,12 +45,18 @@ function Portfolio() {
                   alt="weather dashboard"
                 />
               </a>
+              <a href="https://github.com/alpinelife37/Homework6">
+                Github Repo:
+              </a>
             </div>
 
             <div className="col-md-5 tile">
               <h6>Day Planner App</h6>
               <a href="https://alpinelife37.github.io/Homework5/">
                 <img src="./images/day_planner.png" alt="day planner" />
+              </a>
+              <a href="https://github.com/alpinelife37/Homework5">
+                Github Repo:
               </a>
             </div>
           </div>
@@ -55,12 +67,16 @@ function Portfolio() {
               <a href="https://aqueous-dusk-93036.herokuapp.com/">
                 <img src="./images/taco.png" alt="coding quiz" />
               </a>
+              <a href="https://github.com/alpinelife37/Taco">Github Repo:</a>
             </div>
 
             <div className="col-md-5 tile">
               <h6>Github Profile Generator Node App</h6>
               <a href="https://github.com/alpinelife37/Project-09.git">
-                <img src="./images/profile.png" alt="profile generator" />
+                <img src="/images/profile.png" alt="profile generator" />
+              </a>
+              <a href="https://github.com/alpinelife37/Project-09">
+                Github Repo:
               </a>
             </div>
           </div>
