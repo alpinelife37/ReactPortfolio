@@ -7,7 +7,7 @@
 My web developer portfolio built using React.
 
 ![Example profile](./public/images/example.png)
-[Deployed Link](https://agile-hamlet-46369.herokuapp.com/)
+[Deployed Link](https://whispering-bastion-98979.herokuapp.com/)
 
 ### BUILT WITH
 
@@ -16,6 +16,7 @@ My web developer portfolio built using React.
 - [Javascript](https://www.javascript.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Node](https://nodejs.org/en/)
+- [Heroku](https://www.heroku.com/)
 - [NPM](https://www.npmjs.com/)
 - [React](https://reactjs.org/)
 
