@@ -32,7 +32,7 @@ function Contact() {
 
               <li>
                 <label for="message">PDF Resume</label>
-                <a href="https://github.com/alpinelife37/ReactPortfolio/blob/master/JamesNelsonResume2020.pdf">
+                <a href="https://github.com/alpinelife37/Resume-2/blob/main/JNelson_resume.pdf">
                   James Nelson
                 </a>
               </li>
